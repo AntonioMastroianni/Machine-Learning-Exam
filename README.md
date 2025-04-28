@@ -4,7 +4,7 @@ This project applies association analysis to football match event data to uncove
 ## Table of Contents
 - [About](#about)
 - [Technologies](#technologies)
-
+- [Documentation](#documentation)
 
 
 ## About
@@ -15,3 +15,7 @@ The insights derived can help coaches, analysts, and strategists optimize team f
 
 ## Technologies
 - Knime
+
+## Documentation
+
+You can find the full project report [here](docs/Team43_Report.pdf).
